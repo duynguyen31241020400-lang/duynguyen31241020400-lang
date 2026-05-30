@@ -13,7 +13,7 @@ I study things from the bottom up.
 Not because it's efficient, it isn't, but because understanding a system at its foundation is the only way to say something true about it. That applies to physical systems, computational ones, and the economic structures humans will need to rebuild when AI redefines the objective function.
 
 Currently: undergraduate at **UEH-ISB Honours College**, Vietnam.  
-AI adoption strategist at **Marwuy Crew**
+AI adoption strategist at **Marwuy Crew** and
 Head of Marketing & Communication at **START INNOVA**
 
 ---
