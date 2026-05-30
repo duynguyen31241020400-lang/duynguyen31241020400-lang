@@ -52,8 +52,8 @@ The goal isn't to ship faster. The goal is to have something real to say.
 
 ### reach
 
-[![Email](duynguyen.forbusiness@gmail.com)
-[![X](https://x.com/navarro_de29574)
+[![Email] (duynguyen.forbusiness@gmail.com)
+[![X] (https://x.com/navarro_de29574)
 
 *Open to: research conversations · serious projects · anything that requires thinking carefully*
 
