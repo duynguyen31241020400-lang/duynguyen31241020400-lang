@@ -1,6 +1,7 @@
 <div align="center">
 
 # Nguyễn Vũ Đức Duy · August
+Top 17 IU Startup Demo Day - Top 30 ECOMPETE by FTU
 
 * Computation and what happens when intelligence scales.*
 
